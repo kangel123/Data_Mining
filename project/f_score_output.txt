@@ -1,0 +1,6 @@
+.\BHC_output_1.txt: 0.331931
+.\BHC_output_2.txt: 0.295527
+.\BHC_output_3.txt: 0.301436
+.\BHC_output_4.txt: 0.289264
+.\assignment5_output_2.txt: 0.360178
+.\assignment6_output_2.txt: 0.280905
